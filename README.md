@@ -1,9 +1,11 @@
 Project Description
+
 The project focuses on creating a predictive model for BigMart's sales data from 2013, which contains information about 1,559 products sold across 10 different stores. The primary goal is to predict the sales of individual products at specific stores. The insights from the model will help BigMart identify the key attributes of products and stores that contribute to higher sales and assist in strategic decision-making to enhance overall performance.
 
 The dataset has missing values due to occasional reporting glitches, which are addressed as part of the data preprocessing. The project follows a structured approach comprising several steps, including exploratory data analysis, feature engineering, handling categorical variables, and implementing machine learning models.
 
 Key Objectives
+
 Sales Prediction: Build a model to predict the sales of individual products at different stores.
 Insights Generation: Analyze how product and store attributes influence sales.
 Error Handling: Treat missing values and outliers to improve model performance.
@@ -34,6 +36,7 @@ Model Evaluation:
 Compared the performance of different models using metrics like R² scores and retained the most accurate model for predictions.
 
 Prediction on Test Data:
+
 Applied the trained model to unseen test data to generate sales predictions.
 
 Deployment:
